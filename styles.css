@@ -1,8 +1,25 @@
-/*
+.syllable-count-item {
+    padding: 5px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
+.syllable-line-number {
+    font-weight: bold;
+    margin-right: 5px;
+}
 
-If your plugin does not need CSS, delete this file.
+.syllable-line-text {
+    flex: 1;
+    margin-right: 5px;
+}
 
-*/
+.syllable-count-value {
+    color: gray;
+}
+
+.syllable-count-item.last-item {
+    border-bottom: none;
+}
