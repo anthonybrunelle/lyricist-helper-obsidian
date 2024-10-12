@@ -155,8 +155,6 @@ export default class LyricistHelperPlugin extends Plugin {
 
     onunload() {
         console.log('Unloading Lyricist Helper plugin...');
-        // Detach the syllable count view when the plugin is unloaded
-        this.app.workspace.detachLeavesOfType(VIEW_TYPE_SYLLABLE_COUNT);
     }
 
     // Activate the syllable count view if it's not already active
