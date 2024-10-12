@@ -61,7 +61,7 @@ The plugin will be rebuilt automatically when you make changes.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+See the `LICENSE` file for details.
 
 ## Acknowledgments
 
