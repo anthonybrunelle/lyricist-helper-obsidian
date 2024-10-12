@@ -44,7 +44,7 @@ If you want to contribute or make changes to the plugin:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/lyricist-helper.git
+   git clone https://github.com/anthonybrunelle/lyricist-helper-obsidian.git
    ```
 
 2. **Install dependencies**:
